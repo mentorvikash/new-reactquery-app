@@ -6,7 +6,6 @@ export default function App() {
  const { register, handleSubmit, formState: { errors } } = useForm()
 
     const onSubmit = (data) =>{
-        console.log({data})
     }
 
   return (
@@ -24,7 +23,6 @@ export default function App() {
                 <input {...register("age", { min: 18, max: 25 })} 
                  aria-invalid={errors.firstName ? "true" : "false"} 
                 />
-                {console.log(errors.age.message) }
                 {errors.age && <p style={{color: 'red'}} role="alert">{errors.age.message}</p>}
                 </div>
                 <div>

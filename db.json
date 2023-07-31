@@ -1,23 +1,145 @@
 {
-    "postData": [
+  "data": [
     {
-        "id": 1,
-        "title": "how to eat in right way",
-        "content": "its not fix you can your way what sute you"
+      "id": 1,
+      "title": "How to eat in right way",
+      "content": "its not fix you can your way what sute you"
     },
     {
-        "id": 2,
-        "title": "Where to go to eat",
-        "content": "its not fix you can your way what sute you"
+      "id": 2,
+      "title": "Where to go to eat",
+      "content": "its not fix you can your way what sute you"
     },
     {
-        "id": 3,
-        "title": "5 ways to improve coding",
-        "content": "its not fix you can your way what sute you"
+      "id": 3,
+      "title": "5 ways to improve coding",
+      "content": "its not fix you can your way what sute you"
     },
     {
-        "id": 4,
-        "title": "What next going to learn",
-        "content": "its not fix you can your way what sute you"
+      "id": 4,
+      "title": "What next going to learn",
+      "content": "its not fix you can your way what sute you"
+    },
+    {
+      "title": "this is new post",
+      "desc": "this is new description",
+      "id": 5
+    },
+    {
+      "title": "this is new post",
+      "desc": "this is new description",
+      "id": 6
+    },
+    {
+      "title": "this is new post123",
+      "desc": "this is new description123",
+      "id": 7
+    },
+    {
+      "title": "this is new ",
+      "desc": "this is new descr",
+      "id": 8
+    },
+    {
+      "title": "new post to add",
+      "desc": "new description directly added to file",
+      "id": 9
+    },
+    {
+      "title": "5 ways to work like a pro",
+      "desc": "as their are many article already on this topic so I am not willing to answer the same.",
+      "id": 10
+    },
+    {
+      "title": "5 ways to update data",
+      "desc": "react query is the new way to do that.",
+      "id": 11
+    },
+    {
+      "title": "2 types of men on earth",
+      "desc": "do we only have 2 types of men on earth",
+      "id": 12
     }
-]}
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "vikash singh",
+      "age": 54
+    },
+    {
+      "id": 2,
+      "name": "rajeev singh",
+      "age": 54
+    },
+    {
+      "id": 3,
+      "name": "vishal singh",
+      "age": 54
+    },
+    {
+      "id": 4,
+      "name": "rajat singh",
+      "age": 54
+    }
+  ],
+  "user-data": [
+    {
+      "id": "mentor@gmail.com",
+      "tokendString": "getCourses"
+    }
+  ],
+  "getCourses": [
+    {
+      "id": "getCourses",
+      "courese": [
+        "react",
+        "vue",
+        "angular",
+        "javascript"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "color": "green"
+    },
+    {
+      "id": 3,
+      "color": "blue"
+    },
+    {
+      "id": 4,
+      "color": "yellow"
+    },
+    {
+      "id": 5,
+      "color": "pink"
+    },
+    {
+      "id": 6,
+      "color": "purple"
+    },
+    {
+      "id": 7,
+      "color": "orange"
+    },
+    {
+      "id": 8,
+      "color": "brown"
+    },
+    {
+      "id": 9,
+      "color": "black"
+    },
+    {
+      "id": 10,
+      "color": "white"
+    }
+  ]
+}
